@@ -4,123 +4,123 @@ Through my years of teaching Python Programming, I have gathered examples for ea
 Bellow you can see the roadmap for teaching python. The files in this repository are based on this roadmap.
 
 
-## 1. Environment setup / What is programming?
+## 0. Environment setup / What is programming?
 	terminal basics
 	Python Installation
 	VSCode installation and setup
 	Jupyter Setup with VSCode
 
 
-## 2. Variables / Input / Output / Data Types:
+## 1. Variables / Input / Output / Data Types:
 	main 4
 	extraction
 	casting
 	Truthiness and Falseness
-### 2. Assignment:
+### 1. Assignment:
 	declare, cast and extract all data types
 
 
-## 3. Operators:
+## 2. Operators:
 	main 4 (%)
 	importance of data type
 ### 3. Assignment:
 	Fahrenheit to Celsius calculator 
 
 
-## 4. Conditional:
+## 3. Conditional:
 	Project: Rock, Paper, Sessors
-### 4. Assignment:
+### 3. Assignment:
 	Simple Calculator
 
 
-## 5. While loop:
+## 4. While loop:
 	Project: separating digits of an int
-### 5. Assignment:
+### 4. Assignment:
 	Password checker
 
 
-## 6. Iterables:
+## 5. Iterables:
 	List
 	Strings as iterables
 	Nested Lists
 	Looping over Lists
 	multiple variable declaration
-### 6. Assignment:
+### 5. Assignment:
 	Project: Grocery manager app (with UI)
 
 
-## 7. For loop:
+## 6. For loop:
 	Range
 	Project: separating digits of an int
 	Nested loops
 	Project: Multiplication Table
 	double variable for loop
-### 7. Assignment:
+### 6. Assignment:
 	re-construct count and replace methods.
 
 
-## 8. Other iterables:
+## 7. Other iterables:
 	List Comprehension
 	Tuple (unpacking)
 	Set
 	Dictionary
 	Dictionary Comprehension
-### 8. Assignment:
+### 7. Assignment:
 	Project: WeSplit
 
 
-## 9. Some Methods:
+## 8. Some Methods:
 	sort, reverse, max, count, index
 	upper, replace
 	list, set, dict, tuple
 	zip
-### 9. Assignment:
+### 8. Assignment:
 	Practice methods on different sample Data Sets (Getting datasets from ChatGPT)
 
 
-## 10. Exception Handling and debugging:
+## 9. Exception Handling and debugging:
 	Types of exceptions
 	Exception Handling
 	debugging: rubber duck
 	actual use of print and input
 	introducing unit test
-### 10. Assignment:
+### 9. Assignment:
 	???
 	Write unit test for older programs
 
 
-## 11. Functions (non-recursive):
+## 10. Functions (non-recursive):
 	math functions
 	return value
 	parameters (vs. Arguments, kw and positional)
 	args & kwargs
 	ideas of functional programming
-### 11. Assignment:
+### 10. Assignment:
 	functionalize older assignments
 
 
-## 12. Functions (Recursion):
+## 11. Functions (Recursion):
 	Recurrence and Recursion
 	Project: Sum
 	Project: Fibonacci
 	Lambda
-### 12. Assignment:
+### 11. Assignment:
 	Project: Library Catalog System
 
 
-## 13. Algorithmic Problems:
+## 12. Algorithmic Problems:
 	word count
 	reversing a string
 	check prime
 	Longest Substring Without Repeating Characters
 
 
-## 14. Object Oriented Programming
-### 14. Assignment:
+## 13. Object Oriented Programming
+### 13. Assignment:
 	Complete Vehicle Methods
 
 
-## 15. Modules, Exceptions:
+## 14. Modules, Exceptions:
 	Random
 	math
 	String
@@ -128,13 +128,13 @@ Bellow you can see the roadmap for teaching python. The files in this repository
 	global __name__ variable
 
 
-## 16. File Handling:
+## 15. File Handling:
 	CRUD
 	Text
 	Excel
 	JSON
 	SQLite
-### 16. Assignment:
+### 15. Assignment:
 	Add file reading (excel / JSON / SQL) for Library Project
 
 
