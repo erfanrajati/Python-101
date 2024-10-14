@@ -1,126 +1,120 @@
-# Python Teaching Cheatsheet
-Through my years of teaching Python Programming, I have gathered examples for each concept that will assist teachers throughout the way.
-
-Bellow you can see the roadmap for teaching python. The files in this repository are based on this roadmap.
-
-
-## 1. Environment setup / What is programming?
+1. Environment setup / What is programming?
 	terminal basics
 	Python Installation
 	VSCode installation and setup
 	Jupyter Setup with VSCode
 
 
-## 2. Variables / Input / Output / Data Types:
+2. Variables / Input / Output / Data Types:
 	main 4
 	extraction
 	casting
 	Truthiness and Falseness
-### 2. Assignment:
+2. Assignment:
 	declare, cast and extract all data types
 
 
-## 3. Operators:
+3. Operators:
 	main 4 (%)
 	importance of data type
-### 3. Assignment:
+3. Assignment:
 	Fahrenheit to Celsius calculator 
 
 
-## 4. Conditional:
+4. Conditional:
 	Project: Rock, Paper, Sessors
-### 4. Assignment:
+4. Assignment:
 	Simple Calculator
 
 
-## 5. While loop:
+5. While loop:
 	Project: separating digits of an int
-### 5. Assignment:
+5. Assignment:
 	Password checker
 
 
-## 6. Iterables:
+6. Iterables:
 	List
 	Strings as iterables
 	Nested Lists
 	Looping over Lists
 	multiple variable declaration
-### 6. Assignment:
+6. Assignment:
 	Project: Grocery manager app (with UI)
 
 
-## 7. For loop:
+7. For loop:
 	Range
 	Project: separating digits of an int
 	Nested loops
 	Project: Multiplication Table
 	double variable for loop
-### 7. Assignment:
+7. Assignment:
 	re-construct count and replace methods.
 
 
-## 8. Other iterables:
+8. Other iterables:
 	List Comprehension
 	Tuple (unpacking)
 	Set
 	Dictionary
 	Dictionary Comprehension
-### 8. Assignment:
+8. Assignment:
 	Project: WeSplit
 
 
-## 9. Some Methods:
+9. Some Methods:
 	sort, reverse, max, count, index
 	upper, replace
 	list, set, dict, tuple
 	zip
-### 9. Assignment:
+9. Assignment:
 	Practice methods on different sample Data Sets (Getting datasets from ChatGPT)
 
 
-## 10. Exception Handling and debugging:
+10. Exception Handling and debugging:
 	Types of exceptions
 	Exception Handling
 	debugging: rubber duck
 	actual use of print and input
 	introducing unit test
-### 10. Assignment:
+10. Assignment:
 	???
 	Write unit test for older programs
 
 
-## 11. Functions (non-recursive):
+11. Functions (non-recursive):
 	math functions
 	return value
 	parameters (vs. Arguments, kw and positional)
 	args & kwargs
 	ideas of functional programming
-### 11. Assignment:
+11. Assignment:
 	functionalize older assignments
 
 
-## 12. Functions (Recursion):
+12. Functions (Recursion):
 	Recurrence and Recursion
 	Project: Sum
 	Project: Fibonacci
 	Lambda
-### 12. Assignment:
+12. Assignment:
 	Project: Library Catalog System
 
 
-## 13. Algorithmic Problems:
+13. Algorithmic Problems:
 	word count
 	reversing a string
 	check prime
 	Longest Substring Without Repeating Characters
 
 
-## 14. Object Oriented Programming
-### 14. Assignment:
+14. Object Oriented Programming
+14. Assignment:
 	Complete Vehicle Methods
 
 
-## 15. Modules, Exceptions:
+15. Modules, Exceptions:
 	Random
 	math
 	String
@@ -128,13 +122,13 @@ Bellow you can see the roadmap for teaching python. The files in this repository
 	global __name__ variable
 
 
-## 16. File Handling:
+16. File Handling:
 	CRUD
 	Text
 	Excel
 	JSON
 	SQLite
-### 16. Assignment:
+16. Assignment:
 	Add file reading (excel / JSON / SQL) for Library Project
 
 
