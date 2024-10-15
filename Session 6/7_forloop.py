@@ -10,6 +10,9 @@ fruits = ['moz', 'angoor', 'khiar']
 
 numbers = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
 numbers = list(range(14))
+# range is actually not an iterable,
+# it's an "iterator", 
+# we'll duscuss their differces later.
 
 # for num in numbers:
 #     print(num)
