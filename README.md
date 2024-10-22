@@ -39,7 +39,7 @@ Bellow you can see the roadmap for teaching python. The files in this repository
 	Password checker
 
 
-## 5. Iterables:
+## 5. Some Iterables:
 	List
 	Strings as iterables
 	Nested Lists
@@ -89,12 +89,12 @@ Bellow you can see the roadmap for teaching python. The files in this repository
 	Write unit test for older programs
 
 
-## 10. Functions (non-recursive):
-	math functions
-	return value
-	parameters (vs. Arguments, kw and positional)
+## 10. Functions (Explanation):
+	easy: functions without input parameters or return value
+	medium: functions with input parameters and not return value
+	hard: functions with both return value and input parameters
 	args & kwargs
-	ideas of functional programming
+	Lambda
 ### 10. Assignment:
 	functionalize older assignments
 
@@ -103,7 +103,7 @@ Bellow you can see the roadmap for teaching python. The files in this repository
 	Recurrence and Recursion
 	Project: Sum
 	Project: Fibonacci
-	Lambda
+	ideas of functional programming
 ### 11. Assignment:
 	Project: Library Catalog System
 
