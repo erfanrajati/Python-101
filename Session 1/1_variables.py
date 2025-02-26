@@ -1,21 +1,21 @@
-# print('Hello, World!')
-
-
-# Variable
-
-# Name / Value / Type
-# All variables have these three
-
-a = 15
+a = 10
+b = 20
 
 # print(a)
 
 name = 'Erfan'
-age = 21
+message = "Hello, World!"
 
-name = 10
+print(a)
+print(b)
+print(name)
+print(message)
 
-# print(name, age)
+print(a + b)
+print(a - b)
+print(name + "Rajati")
+
+user_input = input("Type your input here: ")
 
 # userIn = input()
 # print(userIn)
