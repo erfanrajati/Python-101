@@ -11,6 +11,9 @@ print(b)
 print(name)
 print(message)
 
+name = "New value"
+print(name)
+
 print(a + b)
 print(a - b)
 print(name + "Rajati")
