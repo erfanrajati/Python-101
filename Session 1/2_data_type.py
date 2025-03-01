@@ -3,19 +3,20 @@
 a = 10
 a = "10"
 # These are different!
+# First one's type is int, second one's is string.
 
 # integer
 a = 10
 d = 20
 
-# print(a)
-# print(type(a))
+print(a)
+print(type(a))
 
 # string
 b = 'hello'
 c = '10'
 
-# print(type(b))
+print(type(b))
 
 # print(b + c)
 # concatenation
