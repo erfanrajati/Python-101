@@ -9,19 +9,19 @@
 #     print("Welcome to our website!!")
 
 
-# num = int(input("Type your number: "))
+num = int(input("Type your number: "))
 
 
 # if not (num % 5 or num % 3):
 
-# if ((num % 5) == 0) and ((num % 3) == 0):
-#     print("FizzBuzz")
-# elif (num % 3) == 0: # 0, 1, 2
-#     print("Fizz")
-# elif (num % 5) == 0:
-#     print("Buzz")
-# else:
-#     print(num)
+if ((num % 5) == 0) and ((num % 3) == 0):
+    print("FizzBuzz")
+elif (num % 3) == 0: # 0, 1, 2
+    print("Fizz")
+elif (num % 5) == 0:
+    print("Buzz")
+else:
+    print(num)
 
 
 
