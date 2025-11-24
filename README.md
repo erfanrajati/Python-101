@@ -52,14 +52,13 @@ Each session introduces a set of essential programming concepts, often with exer
 | **2** | **Variables & Data Types** | Working with variables, data types, `print()` and `input()` functions. Intro to user-defined functions. |
 | **3** | **Operators** | Arithmetic, comparison, logical, and assignment operators. |
 | **4** | **Control Flow (Sequential & Conditional)** | Writing structured code with if-else logic. |
-| **5** | **Iterable Data Types (Part I)** | Lists, tuples, sets, string slicing, and list slicing. |
-| **6** | **Control Flow (Iterative)** | Loops in Python — `while` and `for`. |
-| **7** | **Iterable Data Types (Part II)** | `range()`, list comprehensions, and dictionaries. |
-| **8** | **Built-in Functions & Methods** | Using Python’s built-ins (`len`, `max`, `sum`, `sorted`, etc.) and object methods (`replace`, `split`, `pop`, …). |
-| **9** | **Advanced Functions** | Recursion, lambda, `map`, `filter`, `all`, `any`, `*args`, and `**kwargs`. |
-| **10** | **Exceptions** | Error handling, raising custom exceptions, and common exception types. |
-| **11** | **Libraries & Packages** | Using `numpy`, `sys`, `datetime`, `jdatetime`, and working with `pip`, `venv`, and creating custom packages. |
-| **12** | **File I/O** | Working with files, command-line arguments (`sys.argv`), and reading/writing CSV files. |
+| **5** | **Iterables (Part I) & Iterative Control Flow** | Lists, tuples, sets, string slicing, and list slicing. |
+| **6** | **Iterable Data Types (Part II)** | `range()`, list comprehensions, and dictionaries. |
+| **7** | **Built-in Functions & Methods** | Using Python’s built-ins (`len`, `max`, `sum`, `sorted`, etc.) and object methods (`replace`, `split`, `pop`, …). |
+| **8** | **Advanced Functions** | Recursion, lambda, `map`, `filter`, `all`, `any`, `*args`, and `**kwargs`. |
+| **9** | **Exceptions** | Error handling, raising custom exceptions, and common exception types. |
+| **10** | **Libraries & Packages** | Using `numpy`, `sys`, `datetime`, `jdatetime`, and working with `pip`, `venv`, and creating custom packages. |
+| **11** | **File I/O** | Working with files, command-line arguments (`sys.argv`), and reading/writing CSV files. |
 
 ---
 
